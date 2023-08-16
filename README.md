@@ -65,6 +65,12 @@ The cp command in the Ubuntu terminal is used to copy files or directories from 
 The mv command in Ubuntu (and other Linux-based systems) is used to move or rename files and directories. It stands for  "move" but it is also commonly used for renaming because the process involves changing the name and location of the specified directory. for example, you can use the mv command to move a file from one directory to another or rename a file by specifying a new name in the directory.
 ![MV COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/dd121550-75c1-4b9f-ac82-6771e533df90)
 
+**8. MKDIR COMMAND**
+The `mkdir` command in the Ubuntu terminal is used to create new directories (folders). You can use it to make a new directory within the current working directory or specify a full path to create a directory in a specific location. For example, typing `mkdir myfolder` will create a new directory named "myfolder" in the current directory.
+![MKDIR COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/cf2d26a3-f556-4879-97f1-11e532a7a0c2)
+
+
+
 
 
 
