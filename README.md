@@ -111,6 +111,14 @@ The grep command in the Ubuntu terminal is used to search for specific patterns 
 The basic syntax of the grep command is:
 ![GREP COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/45c854cb-5a59-407f-a173-ec3398ca1604)
 
+**15. DF COMMAND**
+
+The df command in the Ubuntu terminal is used to display information about the disk space usage on your system's file systems (partitions). It provides information about the total, used, available, and percentage of disk space used for each mounted file system. This information is helpful for monitoring disk usage, understanding storage capacity, and identifying potential issues with disk space availability.
+
+The basic syntax of the df command is:
+![DF COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/108ff90b-ed32-4275-8771-97ae2cbc6e3a)
+
+
 
 
 
