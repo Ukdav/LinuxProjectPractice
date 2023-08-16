@@ -22,6 +22,18 @@ The pwd command is used to print the current working directory in the terminal. 
 **3. CD COMMAND**
 
 The cd command is used to change the current working directory in the terminal. Running this command without an option will take you to the home folder. keep in mind that only users with *SUDO privileges* can execute it.
+![cd](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/fdf94ef6-95a9-4c52-b84b-f183ba7a0618)
+
+Here are some shortcut to help you navigate:
+cd ~ {USername} goes to another user's home directory
+cd .. Moves one director upward
+cd - moves you to your previous directory
+![CD COMMAND 2](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/f4f2c347-1a7f-432b-b349-060a337f0f40)
+
+**4. Is COMMAND**
+
+
+
 
 
 
