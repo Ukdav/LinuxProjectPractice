@@ -118,6 +118,15 @@ The df command in the Ubuntu terminal is used to display information about the d
 The basic syntax of the df command is:
 ![DF COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/108ff90b-ed32-4275-8771-97ae2cbc6e3a)
 
+**16. DU COMMAND**
+
+The du command in the Ubuntu terminal is used to estimate and display the disk space usage of files and directories. Unlike the df command, which provides information about disk space usage at the file system level, the du command focuses on specific files and directories, allowing you to see how much space individual files and directories are occupying.
+
+The basic syntax of the du command is:
+![DU COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/abd437ef-434d-4506-98f0-a4a7f299b6b9)
+
+
+
 
 
 
