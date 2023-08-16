@@ -58,7 +58,14 @@ TAC command display contents in a reverse order
 
 **6. CP COMMAND**
 
-The cp command in the Ubuntu terminal is used to copy files or directories from one location to another. It stands for  "copy" and is followed by the source file/directory path and destination path where you want to copy the files/directories to. for example:
+The cp command in the Ubuntu terminal is used to copy files or directories from one location to another. It stands for  "copy" and is followed by the source file/directory path and destination path to which you want to copy the files/directories to. for example:
+![CP COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/98538682-7e4c-45ff-b155-360e81018503)
+
+**7. MV COMMAND**
+The mv command in Ubuntu (and other Linux-based systems) is used to move or rename files and directories. It stands for  "move" but it is also commonly used for renaming because the process involves changing the name and location of the specified directory. for example, you can use the mv command to move a file from one directory to another or rename a file by specifying a new name in the directory.
+![MV COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/dd121550-75c1-4b9f-ac82-6771e533df90)
+
+
 
 
 
