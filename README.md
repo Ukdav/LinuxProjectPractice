@@ -56,6 +56,11 @@ TAC command display contents in a reverse order
 
 ![TAC COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/98d59aea-01db-4e44-8769-d3041acf27ae)
 
+**6. CP COMMAND**
+
+The cp command in the Ubuntu terminal is used to copy files or directories from one location to another. It stands for  "copy" and is followed by the source file/directory path and destination path where you want to copy the files/directories to. for example:
+
+
 
 
 
