@@ -89,6 +89,18 @@ The touch command in the Ubuntu terminal is used to create new empty files or up
 The basic syntax of the touch command is:
 ![TOUCH COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5eded162-34a3-4b3d-905a-0df08e0711c9)
 
+**12. LOCATE COMMAND**
+
+The locate command in the Ubuntu terminal is used to quickly search for files and directories on the system by utilizing a pre-built index of file and directory names. It's a fast and efficient way to locate files, especially when compared to using commands like find that search the file system in real-time.
+
+The locate command is based on a database called the "locatedb" or "slocate" database. This database is typically updated regularly (often daily) by a background process called updatedb. This process scans the entire file system and creates a database of file and directory names. When you use the locate command, it searches this database rather than directly searching the file system, which makes it much faster.
+
+The basic syntax of the locate command is:
+
+![LOCATE COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/1cd544ed-628c-42d0-ac4b-19310b9b32ba)
+
+
+
 
 
 
