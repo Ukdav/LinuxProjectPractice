@@ -104,6 +104,14 @@ The find command in the Ubuntu terminal is used to search for files and director
 The basic syntax of the find command is:
 ![FIND COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/aae56ac5-df23-4846-97b7-7c86856cd4c6)
 
+**14. GREP COMMAND**
+
+The grep command in the Ubuntu terminal is used to search for specific patterns or text strings within files or the output of other commands. It's a powerful utility that allows you to filter and extract lines from text files based on a specified pattern, making it useful for text processing, searching, and data extraction.
+
+The basic syntax of the grep command is:
+![GREP COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/45c854cb-5a59-407f-a173-ec3398ca1604)
+
+
 
 
 
