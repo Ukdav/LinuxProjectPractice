@@ -125,6 +125,14 @@ The du command in the Ubuntu terminal is used to estimate and display the disk s
 The basic syntax of the du command is:
 ![DU COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/abd437ef-434d-4506-98f0-a4a7f299b6b9)
 
+**17. HEAD COMMAND**
+The head command in the Ubuntu terminal is used to display the beginning (top) portion of a text file or the output of a command. By default, it shows the first 10 lines of a file or command output, but you can specify a different number of lines if needed.
+
+The basic syntax of the head command is:
+![HEAD COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/e0ab19e5-74d6-4bdf-9b2d-3b547da46e31)
+
+
+
 
 
 
