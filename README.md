@@ -66,12 +66,22 @@ The mv command in Ubuntu (and other Linux-based systems) is used to move or rena
 ![MV COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/dd121550-75c1-4b9f-ac82-6771e533df90)
 
 **8. MKDIR COMMAND**
+
 The `mkdir` command in the Ubuntu terminal is used to create new directories (folders). You can use it to make a new directory within the current working directory or specify a full path to create a directory in a specific location. For example, typing `mkdir Ifyfolder` will create a new directory named "Ifyfolder" in the current directory.
 ![MKDIR COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/cf2d26a3-f556-4879-97f1-11e532a7a0c2)
 
 **9. RMDIR COMMAND**
+
 The `rmdir` command in the Ubuntu terminal is used to remove empty directories (folders). It deletes a directory only if it is empty; otherwise, it will show an error. For instance, if you have an empty directory named "Ifyfolder" and you want to remove it, you can use the command `rmdir Ifyfolder`. If the directory contains any files or subdirectories, you would need to use the `rm` command with the `-r` (recursive) option to remove them first before using `rmdir`.
 ![RMDIR COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/7e3d3df4-fe05-41ef-82bf-bc09ec30419f)
+
+**10. RM COMMAND**
+
+The rm command in the Ubuntu terminal is used to remove (delete) files or directories from the file system. Its primary function is to delete files, and it can also be used to remove empty directories. However, it's important to note that the rm command doesn't move deleted files to a trash or recycle bin; instead, it deletes them permanently from the system.
+
+Here's the basic syntax of the rm command:
+![RM COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5c3f71e2-f38f-440e-9cd3-d97867202dfe)
+
 
 
 
