@@ -96,7 +96,6 @@ The locate command in the Ubuntu terminal is used to quickly search for files an
 The locate command is based on a database called the "locatedb" or "slocate" database. This database is typically updated regularly (often daily) by a background process called updatedb. This process scans the entire file system and creates a database of file and directory names. When you use the locate command, it searches this database rather than directly searching the file system, which makes it much faster.
 
 The basic syntax of the locate command is:
-
 ![LOCATE COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/1cd544ed-628c-42d0-ac4b-19310b9b32ba)
 
 
