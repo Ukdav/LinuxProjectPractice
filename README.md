@@ -82,6 +82,14 @@ The rm command in the Ubuntu terminal is used to remove (delete) files or direct
 Here's the basic syntax of the rm command:
 ![RM COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5c3f71e2-f38f-440e-9cd3-d97867202dfe)
 
+**11. TOUCH COMMAND**
+
+The touch command in the Ubuntu terminal is used to create new empty files or update the timestamp of existing files. Its primary function is to either create a new file if it doesn't exist or update the access and modification timestamps of an existing file.
+
+The basic syntax of the touch command is:
+![TOUCH COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5eded162-34a3-4b3d-905a-0df08e0711c9)
+
+
 
 
 
