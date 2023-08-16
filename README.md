@@ -26,14 +26,29 @@ The cd command is used to change the current working directory in the terminal. 
 
 Here are some shortcut to help you navigate:
 
-cd ~ {USername} goes to another user's home directory
+cd ~ {Username} goes to another user's home directory
 
 cd .. Moves one director upward
 
 cd - moves you to your previous directory
 ![CD COMMAND 2](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/f4f2c347-1a7f-432b-b349-060a337f0f40)
 
-**4. Is COMMAND**
+**4. ls COMMAND**
+
+This is an Ls command in the Ubuntu terminal that is used to list the files and directories in the current working directory, it provides a way of viewing the content of a directory. here are a few examples.
+
+![LS COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/a932ca6e-e9a0-4f75-8216-1bfcb5922882)
+
+other commands are :
+ls -R
+
+ls -a and ls -1h
+
+![LS -R COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/46ed46e9-946e-4684-92c3-5615a80c3083)
+![LS -a and LS -1h COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/3d6fd136-65e2-427a-8426-b21e0e5def1e)
+
+
+
 
 
 
