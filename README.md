@@ -98,6 +98,13 @@ The locate command is based on a database called the "locatedb" or "slocate" dat
 The basic syntax of the locate command is:
 ![LOCATE COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/1cd544ed-628c-42d0-ac4b-19310b9b32ba)
 
+**13. FIND COMMAND**
+The find command in the Ubuntu terminal is used to search for files and directories within a specified directory hierarchy based on various criteria such as file names, types, sizes, permissions, and more. It's a versatile tool that allows you to search for files using a wide range of conditions.
+
+The basic syntax of the find command is:
+![FIND COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/aae56ac5-df23-4846-97b7-7c86856cd4c6)
+
+
 
 
 
