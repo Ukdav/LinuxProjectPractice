@@ -47,6 +47,16 @@ ls -a and ls -1h
 ![LS -R COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/46ed46e9-946e-4684-92c3-5615a80c3083)
 ![LS -a and LS -1h COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/3d6fd136-65e2-427a-8426-b21e0e5def1e)
 
+**5. CAT COMMAND**
+
+The cat command in the Ubuntu terminal is used to display the contents of text files. it's a short word for "concatenate", and its primary  use is to display the contents of one or more files. it's also commonly used to create new files, combine files and redirect content. for example:
+![CAT COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/445a06cc-867c-45cd-92c3-4b4a2c1c6f5d)
+
+
+
+
+
+
 
 
 
