@@ -141,6 +141,12 @@ The basic syntax of the tail command is:
 
 **19. DIFF COMMAND**
 
+The diff command in Ubuntu's terminal is used to compare the contents of two files or directories and highlight the differences between them. It's often used to find out what changes have been made between two versions of a file or to compare the contents of two directories.
+
+Here's the basic syntax of the diff command:
+![DIFF COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/293bb8e1-1148-4fce-ae59-30c1ac0d19c0)
+
+
 
 
 
