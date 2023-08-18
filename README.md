@@ -148,7 +148,7 @@ Here's the basic syntax of the diff command:
 
 **20. TAR COMMAND**
 
-The tar command in Ubuntu's terminal is used for creating and manipulating archive files, often referred to as "tarballs." Tarballs are typically used to store and compress multiple files and directories into a single archive file, making it easier to transfer or backup a group of files while maintaining their directory structure and permissions.
+The tar command in Ubuntu's terminal is used for creating and manipulating archive files, often referred to as "tarballs." Tarballs are typically used to store and compress multiple files and directories into a single archive file, making it easier to transfer or back up a group of files while maintaining their directory structure and permissions.
 
 The name "tar" stands for "tape archive," as the command was originally designed for archiving files onto magnetic tape drives. However, nowadays, it's commonly used for creating and extracting archive files on various storage mediums.
 
@@ -158,12 +158,19 @@ The basic syntax of the tar command is as follows:
 
 **21. CHMOD COMMAND**
 
-The chmod command is a common command that modifies a file or directory's read, write and execution permission. in Linux, each files is associated with three user classes like owner, group members and others. 
+The chmod command is a common command that modifies a file or directory's read, write and execution permission. in Linux, each file is associated with three user classes an owner, group members, and others. 
 
 Here are the examples:
 
 ![CHMOD COMMAND1](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/3306333f-a042-4bcd-8a41-c1b7071a99f6)
 ![CHMOD COMMAND2](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/1bd0034b-0572-42b7-9a73-528df8da6876)
+
+**22. CHOWN COMMAND**
+
+The chmod command in Ubuntu (and other Unix-like systems) is used to change the permissions of files and directories. Here are some examples:
+
+
+
 
 
 
