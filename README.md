@@ -287,6 +287,9 @@ By default, top updates the displayed information in real-time. You can also con
 
 Keep in mind that top might have a learning curve due to its interactive nature and the wealth of information it provides, but it's a valuable tool for system monitoring and analysis.
 
+![TOP COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/26c3a6a9-97c2-4431-8407-5f2f09e60ea7)
+
+
 
 
 
