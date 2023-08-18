@@ -169,6 +169,9 @@ Here are the examples:
 
 The chmod command in Ubuntu (and other Unix-like systems) is used to change the permissions of files and directories. Here are some examples:
 
+![CHOWN COMMAND1](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/3f13bdd7-fdf3-4a1d-9edc-9c146fb87e9b)
+
+
 
 
 
