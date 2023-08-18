@@ -156,6 +156,17 @@ The basic syntax of the tar command is as follows:
 ![TAR COMMAND 1](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/a9438cd2-b80f-4f9e-87bd-cc188441988d)
 ![TAR COMMAND2 TO EXTRACT](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/f615ecf2-aa2d-435a-b714-e334b2933c73)
 
+**21. CHMOD COMMAND**
+
+The chmod command is a common command that modifies a file or directory's read, write and execution permission. in Linux, each files is associated with three user classes like owner, group members and others. 
+
+Here are the examples:
+
+![CHMOD COMMAND1](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/3306333f-a042-4bcd-8a41-c1b7071a99f6)
+![CHMOD COMMAND2](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/1bd0034b-0572-42b7-9a73-528df8da6876)
+
+
+
 
 
 
