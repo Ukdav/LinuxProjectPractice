@@ -238,6 +238,14 @@ Use example:
 
 ![PING COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/ba50b358-68b4-4bce-84c7-21724d14ef1d)
 
+**26. WGET COMMAND**
+
+The wget command in the Ubuntu terminal is used for downloading files from the internet. It stands for "web get" and is a command-line utility that retrieves files using various protocols, such as HTTP, HTTPS, FTP, and more. The primary function of the wget command is to retrieve files from remote servers and save them to your local system.
+
+Here's how the wget command works and what it's used for:
+
+
+
 
 
 
