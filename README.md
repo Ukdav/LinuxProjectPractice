@@ -339,7 +339,16 @@ The manual page for a command typically includes the following information:
 
 Here's how you use the man command:
 
-![MAN COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/e58862fb-b85a-4a69-b95e-9796f1d3e8bf)
+![MAN COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/e58862fb-b85a-4a69-b95e-9796f1d3e8bf
+
+**31. ECHO COMMAND**
+
+The echo command in Ubuntu (and other Unix-like operating systems) is used to display text or messages on the terminal. It is a simple and commonly used command that allows you to print information to the screen. The primary function of the echo command is to output its arguments (text strings) to the terminal window.
+
+Here's how you use the echo command:
+
+![ECHO COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/7ffd69a4-532a-45e5-99cc-bdee817fe0ea)
+
 
 
 
