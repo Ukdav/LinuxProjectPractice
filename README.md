@@ -322,6 +322,32 @@ Remember that the history command shows commands from the current shell session 
 
 ![HISTORY COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/4436ff26-064d-4e42-a89f-cedd6e21a247)
 
+**30. MAN COMMAND**
+
+The man command in Ubuntu (and other Unix-like operating systems) is used to display the manual pages (or documentation) for various commands, functions, system calls, and configuration files. It provides detailed information about how to use specific commands and utilities available on your system. The manual pages are a crucial resource for learning about the functionality and usage of different commands and tools.
+
+When you run the man command followed by the name of a command, it opens up the corresponding manual page in your terminal. Manual pages are organized into sections, and the man command allows you to specify the section if a command name exists in multiple sections. For example, you can use man 1 ls to view the manual page for the ls command in section 1 (general commands), and man 3 printf to view the manual page for the printf function in section 3 (library calls).
+
+The manual page for a command typically includes the following information:
+
+1. Name: The name of the command or function.
+2. Synopsis: The syntax and usage of the command or function, including its options and arguments.
+3. Description: Detailed information about what the command does and how it works.
+4. Options: Explanation of the available command-line options and their meanings.
+5. Examples: Usage examples that demonstrate how to use the command effectively.
+6. See Also: References to related commands or functions that might be helpful.
+
+Here's how you use the man command:
+
+![MAN COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/e58862fb-b85a-4a69-b95e-9796f1d3e8bf)
+
+
+
+
+
+
+
+
 
 
 
