@@ -263,7 +263,31 @@ Here are some common options and what they display:
 9. -o or --operating-system: Displays the operating system.
 10. -h or --help: Displays the help message for uname command options.
 
+For example, if you run the following command:
+
 ![UNAME COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/32101ff5-f069-4e69-9369-9a89e5b8a152)
+
+**28. top command**
+
+The top command on Ubuntu (and other Unix-like operating systems) is used to monitor the system's real-time performance and resource utilization. It provides a dynamic, interactive view of various system statistics, including CPU usage, memory usage, running processes, and more. It is a powerful tool for system administrators and users to keep an eye on system health and performance.
+
+When you run the top command, it displays a live updating list of processes, along with information about CPU usage, memory usage, system uptime, and other relevant metrics. The default view provides a snapshot of the most resource-intensive processes at the top, helping you quickly identify which processes are consuming the most resources.
+
+Here's a brief overview of the information displayed by the top command:
+
+Header Information: The top of the top display shows information about system uptime, load averages, number of running processes, etc.
+
+Process List: The main part of the display lists all active processes. It includes details such as process ID (PID), user running the process, CPU usage percentage, memory usage percentage, process status, and more.
+
+Summary Information: The bottom section of the top display provides summary information about CPU usage, memory usage, swap space usage, and other system-wide statistics.
+
+Interactive Controls: top is interactive, which means you can use various keyboard commands to sort the process list, change the way processes are displayed, and more. For example, you can press "k" to send a signal to a process, "r" to renice a process, and "q" to quit the top command.
+
+By default, top updates the displayed information in real-time. You can also configure the refresh interval and customize the information shown using various command-line options. The top command is commonly used for troubleshooting performance issues, identifying resource-hungry processes, and monitoring system behavior over time.
+
+Keep in mind that top might have a learning curve due to its interactive nature and the wealth of information it provides, but it's a valuable tool for system monitoring and analysis.
+
+
 
 
 
