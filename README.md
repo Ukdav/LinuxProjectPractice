@@ -246,6 +246,26 @@ Here's how the wget command works and what it's used for:
 
 ![WGET COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/29389fd8-a849-4c68-b92b-b99ec45f9101)
 
+**27. UNAME COMMAND**
+
+The uname command in Ubuntu (and other Unix-like operating systems) is used to display system information related to the system's kernel and operating system. It provides various options that allow you to retrieve specific information about the system. When you run the uname command without any options, it typically displays the kernel name, node (hostname), kernel release, kernel version, machine hardware architecture, and operating system.
+
+Here are some common options and what they display:
+
+1. -a or --all: Displays all available information about the system.
+2. -s or --kernel-name: Displays the kernel name.
+3. -n or --nodename: Displays the node (hostname).
+4. -r or --kernel-release: Displays the kernel release.
+5. -v or --kernel-version: Displays the kernel version.
+6. -m or --machine: Displays the machine hardware architecture.
+7. -p or --processor: Displays the processor type.
+8. -i or --hardware-platform: Displays the hardware platform.
+9. -o or --operating-system: Displays the operating system.
+10. -h or --help: Displays the help message for uname command options.
+
+![UNAME COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/32101ff5-f069-4e69-9369-9a89e5b8a152)
+
+
 
 
 
