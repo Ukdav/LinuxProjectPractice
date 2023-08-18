@@ -171,6 +171,19 @@ The chmod command in Ubuntu (and other Unix-like systems) is used to change the 
 
 ![CHOWN COMMAND1](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/3f13bdd7-fdf3-4a1d-9edc-9c146fb87e9b)
 
+**23. JOBS COMMAND**
+
+The jobs command is used to display the status of jobs running in the background or suspended, remember this command is only available in CSH, BASH, TCSH AND KSH shells:
+
+The syntax below are:
+job [options] jobid
+
+Here are some of the options you can use:
+
+-l lists process IDS along their information, -n lists jobs whose statuses have changed since last the last notification, -p lists process IDs only.
+
+
+
 
 
 
