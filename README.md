@@ -244,6 +244,10 @@ The wget command in the Ubuntu terminal is used for downloading files from the i
 
 Here's how the wget command works and what it's used for:
 
+![WGET COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/29389fd8-a849-4c68-b92b-b99ec45f9101)
+
+
+
 
 
 
