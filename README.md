@@ -216,6 +216,27 @@ The kill command can be used to send any of these signals to processes by specif
 
 Remember that different processes may respond differently to signals, and some signals might not have any effect on certain processes. Always use signals carefully and considerately to avoid disrupting the system's stability.
 
+**25. PING COMMAND**
+
+he ping command in the Ubuntu terminal is used to test the reachability and latency of a network host, typically using the Internet Control Message Protocol (ICMP). It sends ICMP echo request packets to the target host and waits for ICMP echo reply packets to come back. The primary function of the ping command is to check the connectivity and response time of a networked device, such as a server or another computer, on a local network or the internet.
+
+Here's how the ping command works and what it's used for:
+
+1. Checking Network Connectivity:
+When you use the ping command followed by a hostname or IP address, the command sends a series of ICMP packets to the specified host. If the host is reachable and responsive, it sends back ICMP echo reply packets, indicating that the communication is successful.
+
+2. Measuring Round-Trip Time (Latency):
+The ping command also provides information about the round-trip time (latency) it takes for a packet to travel from your computer to the target host and back. The output displays the time in milliseconds for each packet's round-trip journey.
+
+3. Troubleshooting Network Issues:
+ping is commonly used to diagnose network problems. If a host doesn't respond to ping requests, it might indicate network congestion, connectivity issues, or firewall restrictions. It can help system administrators identify where a network communication problem might be occurring.
+
+4. Checking Network Stability:
+Running a continuous ping to a host over time can help monitor the stability of the network connection. If you notice fluctuations in response times or intermittent loss of connectivity, it could signal problems with the network.
+
+Use example: 
+
+![PING COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/ba50b358-68b4-4bce-84c7-21724d14ef1d)
 
 
 
