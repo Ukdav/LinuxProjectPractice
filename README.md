@@ -1,4 +1,4 @@
-## LinuxProjectPractice Project 1
+![TAR COMMAND 1](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/ea5ffce1-701f-4429-a206-2b19ece94efc)## LinuxProjectPractice Project 1
 
 **What is Linux**?
 
@@ -145,6 +145,20 @@ The diff command in Ubuntu's terminal is used to compare the contents of two fil
 
 Here's the basic syntax of the diff command:
 ![DIFF COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/293bb8e1-1148-4fce-ae59-30c1ac0d19c0)
+
+**20. TAR COMMAND**
+
+The tar command in Ubuntu's terminal is used for creating and manipulating archive files, often referred to as "tarballs." Tarballs are typically used to store and compress multiple files and directories into a single archive file, making it easier to transfer or backup a group of files while maintaining their directory structure and permissions.
+
+The name "tar" stands for "tape archive," as the command was originally designed for archiving files onto magnetic tape drives. However, nowadays, it's commonly used for creating and extracting archive files on various storage mediums.
+
+The basic syntax of the tar command is as follows:
+![TAR COMMAND 1](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/a9438cd2-b80f-4f9e-87bd-cc188441988d)
+![TAR COMMAND2 TO EXTRACT](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/f615ecf2-aa2d-435a-b714-e334b2933c73)
+
+
+
+
 
 
 
