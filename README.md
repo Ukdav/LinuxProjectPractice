@@ -289,6 +289,46 @@ Keep in mind that top might have a learning curve due to its interactive nature 
 
 ![TOP COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/26c3a6a9-97c2-4431-8407-5f2f09e60ea7)
 
+**29. HISTORY COMMAND**
+
+The history command in Ubuntu (and other Unix-like operating systems) is used to display a list of commands that have been executed in the past in the current shell session. It provides a history of the commands you have entered in the terminal, allowing you to review and reuse them without having to retype them.
+
+When you run the history command, it displays a numbered list of commands along with their command numbers. By default, it shows the most recent commands at the bottom of the list.
+
+Here are a few ways the history command can be useful:
+
+Command Recall: You can quickly recall and reuse previously executed commands by typing their command numbers and using the ! notation. For example, to rerun the command number 42, you can type !42.
+
+Search: You can search through your command history for specific commands using the grep command. For instance, to search for all commands containing the word "sudo," you can use history | grep sudo.
+
+Analyzing Activity: The history command allows you to review your recent terminal activity, which can be useful for troubleshooting or keeping track of what you've done.
+
+Scripting and Automation: You can extract specific commands from your history to create scripts or automate certain tasks. This is particularly useful when you want to create a script to replicate a series of commands you've previously executed.
+
+By default, the history list has a limited size, typically around 1000 commands, depending on the configuration. You can customize the history settings by modifying the shell's configuration file (e.g., ~/.bashrc for the Bash shell). You can control parameters like the maximum number of commands stored, the format of timestamps, and more.
+
+Here are a few commonly used history command options:
+
+1. history: Displays the list of previously executed commands.
+2. !!: Repeats the last executed command.
+3. !n: Repeats the nth command in history (replace "n" with the command number).
+4. !string: Repeats the most recent command that starts with "string."
+5. history -c: Clears the history list.
+6. history -d n: Deletes the command with number "n" from the history.
+7. history -a: Appends new history entries to the history file.
+8. history -w: Writes the current history to the history file.
+   
+Remember that the history command shows commands from the current shell session only. Once you close the terminal or start a new session, the command history will not be retained unless you've configured your shell to save it to a history file.
+
+![HISTORY COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/4436ff26-064d-4e42-a89f-cedd6e21a247)
+
+
+
+
+
+
+
+
 
 
 
