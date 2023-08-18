@@ -349,6 +349,20 @@ Here's how you use the echo command:
 
 ![ECHO COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/7ffd69a4-532a-45e5-99cc-bdee817fe0ea)
 
+**32. ZIP, UNZIP COMMAND**
+
+The zip and unzip commands on Ubuntu (and other Unix-like operating systems) are used for compressing and decompressing files and directories into the ZIP file format. ZIP is a popular archive file format that allows you to group multiple files and directories into a single compressed package, making it easier to store and transfer data while saving disk space.
+
+Here's an overview of the functions of these commands:
+
+zip Command:
+The zip command is used to create compressed ZIP archives from one or more files or directories. It offers various options to customize the compression process, such as setting compression levels, including/excluding specific files, and more.
+
+unzip Command:
+The unzip command is used to extract files from ZIP archives. It can extract individual files or entire directories from a ZIP archive, and it provides options to control the extraction process, such as extracting files to a specific directory.
+
+
+
 
 
 
