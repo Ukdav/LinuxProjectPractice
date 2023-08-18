@@ -361,6 +361,9 @@ The zip command is used to create compressed ZIP archives from one or more files
 unzip Command:
 The unzip command is used to extract files from ZIP archives. It can extract individual files or entire directories from a ZIP archive, and it provides options to control the extraction process, such as extracting files to a specific directory.
 
+![ZIP, UNZIP COMMANMD](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/215ee188-a5f8-4851-9f2a-c22ca83b16ab)
+
+
 
 
 
