@@ -363,6 +363,16 @@ The unzip command is used to extract files from ZIP archives. It can extract ind
 
 ![ZIP, UNZIP COMMANMD](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/215ee188-a5f8-4851-9f2a-c22ca83b16ab)
 
+**33. USERADD, USERDEL COMMANDS**
+
+On Ubuntu (and other Unix-like operating systems), the useradd and userdel commands are used to manage user accounts on the system. They allow you to add and delete user accounts, respectively. Here's an overview of their functions:
+
+useradd Command:
+The useradd command is used to create a new user account on the system. When you create a user using this command, it initializes the user's home directory, sets a default shell, and performs other necessary setup tasks.
+
+
+
+
 
 
 
