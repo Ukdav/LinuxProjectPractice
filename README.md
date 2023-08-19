@@ -370,6 +370,8 @@ On Ubuntu (and other Unix-like operating systems), the useradd and userdel comma
 useradd Command:
 The useradd command is used to create a new user account on the system. When you create a user using this command, it initializes the user's home directory, sets a default shell, and performs other necessary setup tasks.
 
+Here are the syntax examples
+
 
 
 
