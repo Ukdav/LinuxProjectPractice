@@ -452,6 +452,43 @@ The basic usage of the su command is as follows:
 
 ![SU COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5247cc4e-c0bf-4ecf-a645-53a934c81681)
 
+**39. HTOP COMMAND**
+
+The htop command on Ubuntu is a terminal-based process viewer and system monitoring tool. It provides an interactive and more feature-rich alternative to the traditional top command. htop allows you to monitor the system's resources, view and manage running processes, and perform various actions on them.
+
+Here's an overview of the functions and features of the htop command:
+
+1. Real-Time System Monitoring:
+htop displays real-time information about system resources such as CPU usage, memory usage, swap usage, and more. It provides graphical representations of these resources, making it easier to understand their current state.
+
+2. Process Listing and Management:
+htop lists all running processes on the system, similar to the top command. It displays information about each process, including its process ID (PID), owner, CPU usage, memory usage, and more. The list is updated in real-time.
+
+3. Interactive Interface:
+Unlike the traditional top command, htop features an interactive and colorful interface. You can use keyboard shortcuts to sort the process list based on different criteria (e.g., CPU usage, memory usage), search for specific processes, and perform various actions on processes.
+
+4. Process Actions:
+htop allows you to perform actions on processes directly from its interface. You can send signals to processes (e.g., terminate, stop, continue), change the priority of processes, and even kill processes if necessary.
+
+5. Resource Bars:
+htop uses colored bars to represent resource usage, making it easier to visualize the distribution of resources among different processes.
+
+6. Customization:
+You can customize the htop display to suit your preferences. You can change colors, adjust columns, and configure various settings to tailor the view to your needs.
+
+7. Tree View:
+htop can display processes in a hierarchical tree structure, allowing you to see parent-child relationships between processes.
+
+Please note that while htop provides a more intuitive and interactive interface compared to top, it might not be installed by default on all systems. You can install it using your package manager, such as **sudo apt-get install htop on Ubuntu**. It's a valuable tool for system administrators and users who want a more detailed and interactive view of their system's resource usage and process management.
+
+To use htop, simply enter the following command in your terminal:
+
+![HTOP INSTALLATION COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/d9b13390-c5c6-4664-b561-28c6dc838ad0)
+
+![HTOP COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5ceae297-431d-435a-8fbc-edbc4bb34d91)
+
+
+
 
 
 
