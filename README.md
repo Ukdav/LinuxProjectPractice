@@ -487,6 +487,12 @@ To use htop, simply enter the following command in your terminal:
 
 ![HTOP COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5ceae297-431d-435a-8fbc-edbc4bb34d91)
 
+**40. PS COMMAND**
+The ps command on Ubuntu (and other Unix-like operating systems) is used to display information about currently running processes on the system. It provides insight into the active processes, including their process IDs (PIDs), resource usage, and other attributes. The ps command is a powerful tool for monitoring and managing processes on the command line.
+
+![PS COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/414bb113-78e8-4eb4-b5a0-8401e2eed362)
+
+
 
 
 
