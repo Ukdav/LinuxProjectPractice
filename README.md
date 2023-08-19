@@ -372,7 +372,49 @@ The useradd command is used to create a new user account on the system. When you
 
 Here are the syntax examples
 
+![USERADD, USERDEL COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/390ed652-6fb8-4060-adef-7218fa94dfca)
 
+**34. HOSTNAME COMMAND**
+
+The hostname command on Ubuntu (and other Unix-like operating systems) is used to display or set the system's hostname. The hostname is a label or identifier that is assigned to a system and is used to identify the system on a network or within a local environment. It's a human-readable name that helps in identifying and distinguishing different systems.
+
+Here's how the hostname command can be used:
+
+1. Display the Hostname:
+Running the hostname command without any options will display the current hostname of the system.
+
+2. Set the Hostname:
+You can also use the hostname command to set a new hostname for the system. To do this, you typically need superuser privileges (root access) because changing the hostname can affect network configuration and system identification.
+
+![HOSTNAME COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/8f62c601-7154-43ce-8321-76e2887cd765)
+
+**35. APT-GET COMMAND**
+
+The apt-get command on Ubuntu is used to manage software packages on the system. It is a powerful command-line tool that helps you install, upgrade, remove, and manage software packages from Ubuntu's software repositories. apt-get is part of the Advanced Package Tool (APT) suite, which is the package management system used in Ubuntu and other Debian-based distributions.
+
+Here are some of the main functions of the apt-get command:
+
+1. Install Packages:
+You can use apt-get to install software packages from the Ubuntu repositories. For example, to install the Firefox web browser.
+
+2. Upgrade Packages:
+apt-get can upgrade installed packages to their latest available versions. This helps keep your system up to date with the latest security patches and bug fixes. Use the following command to update all installed packages:
+
+3. Remove Packages:
+You can use apt-get to uninstall or remove packages from your system. For example, to remove the Firefox package.
+
+4. Search for Packages:
+apt-get can be used to search for packages based on keywords. This can be helpful when you want to find a specific package to install. For example, to search for packages related to "text editor," 
+
+5. Clean Package Cache:
+The package cache can consume disk space over time. To clean up old package files that are no longer needed.
+
+6. Upgrade Distribution (Release Upgrade):
+To upgrade your Ubuntu distribution to a new release, you can use the dist-upgrade option:
+
+![APT-GET INSTALL COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/6e523968-c77b-4454-b569-08c99d6a08d7)
+
+![APT-GET UPGRADE COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/97085f12-02da-4226-a394-d3c7d81b9742)
 
 
 
