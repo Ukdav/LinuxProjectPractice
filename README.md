@@ -416,6 +416,27 @@ To upgrade your Ubuntu distribution to a new release, you can use the dist-upgra
 
 ![APT-GET UPGRADE COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/97085f12-02da-4226-a394-d3c7d81b9742)
 
+**36. NANO, VI, JED COMMANDS**
+
+The nano, vi, and jed commands are all text editors available on Ubuntu (and other Unix-like systems) that allow you to create, edit, and modify text files directly from the command line. Each of these editors has its own features and usage patterns:
+
+1. nano Command:
+nano is a user-friendly, beginner-friendly text editor. It's designed to be easy to use and provides an intuitive interface for editing text files. It offers basic editing functionalities and keyboard shortcuts that are similar to those found in other common applications. nano is particularly suitable for users who are not familiar with more advanced text editors like vi.
+
+2. vi Command:
+vi is a powerful and widely used text editor that comes with most Unix-like operating systems. However, it has a steeper learning curve compared to nano. vi operates in different modes: command mode (for navigating and performing operations) and insert mode (for inserting text).
+
+3. jed Command:
+jed is another text editor that provides an environment suitable for both novice and experienced users. It offers features similar to nano and vi but also includes support for scripting and customization. jed is known for its extensibility through the use of macros.
+
+![NANO COMMNAD](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/b81321f9-e96c-4eb1-a585-5d677482944a)
+
+![VI COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/60cc51ca-2ab7-4174-8cce-d8996b1929ef)
+
+
+
+
+
 
 
 
