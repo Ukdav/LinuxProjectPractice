@@ -433,6 +433,38 @@ jed is another text editor that provides an environment suitable for both novice
 
 ![VI COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/60cc51ca-2ab7-4174-8cce-d8996b1929ef)
 
+**37. ALIAS, UNALIAS COMMAND**
+
+The alias and unalias commands on Ubuntu (and other Unix-like operating systems) are used to create and remove aliases, respectively. Aliases are custom shortcuts that allow you to create new, shorter names for longer or frequently used commands. These aliases can save you time and typing by allowing you to execute complex or lengthy commands with just a few keystrokes.
+
+![ALIAS COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/45df4c67-873e-400f-8750-623f62e6d6a0)
+
+![UNALIAS COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/527ae108-05bc-47d3-8978-ebc32bd7152b)
+
+**38. SU COMMAND**
+
+The su (short for "substitute user") command on Ubuntu (and other Unix-like operating systems) is used to switch to a different user account from within a terminal session. It allows you to run commands and perform tasks as if you were logged in as that user, provided you have the necessary permissions. The primary purpose of the su command is to execute commands with elevated privileges, usually as the root (superuser) user.
+
+Here's how the su command works and its main functions:
+
+Switch to Another User:
+The basic usage of the su command is as follows:
+
+![SU COMMAND](https://github.com/Ukdav/LinuxProjectPractice/assets/139593350/5247cc4e-c0bf-4ecf-a645-53a934c81681)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
